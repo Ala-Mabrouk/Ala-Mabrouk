@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my github account, I'm Ala ! 👋   
+![App Screenshot](Img/bgGit.png)  
+             
+## 🚀 About Me  
+I'am motivated software developer with a passion for creating innovative solutions.
+My experience ranges from web development to mobile app development,
+and I am always eager to learn new technologies and expand my skill set.
 
-<!--
-**Ala-Mabrouk/Ala-Mabrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills  
+- **Web Development**: HTML, CSS, JavaScript, Angular
+- **Mobile Development**: Flutter, Android 
+- **Backend Development**: Spring Boot, NodeJs 
+- **Database Management**: MySQL,MongoDB, NodeJs 
+   
+## 🔗 Links  
+ 
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ala-mabrouk.github.io/Portfolio-Ala/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ala-mabrouk//)  
