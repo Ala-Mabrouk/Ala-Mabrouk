@@ -10,10 +10,12 @@ and I am always eager to learn new technologies and expand my skill set.
 - **Web Development**: HTML, CSS, JavaScript, Angular
 - **Mobile Development**: Flutter, Android 
 - **Backend Development**: Spring Boot, NodeJs 
-- **Database Management**: MySQL,MongoDB, NodeJs 
+- **Database Management**: MySQL,MongoDB
    
 ## 🔗 Links  
  
 [![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ala-mabrouk.github.io/Portfolio-Ala/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ala-mabrouk//)  
+  
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mabrouk.ala.98/)
