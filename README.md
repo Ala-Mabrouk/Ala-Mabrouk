@@ -1,9 +1,8 @@
 # Welcome to my github account, I'm Ala ! 👋   
-![App Screenshot](Img/bgGit.png)  
              
 ## 🚀 About Me  
-I'am motivated software developer with a passion for creating innovative solutions.
-My experience ranges from web development to mobile app development,
+I'am motivated software developer, passioned of creating innovative solutions.
+My experience ranges from web to mobile app development,
 and I am always eager to learn new technologies and expand my skill set.
 
 ## 🛠 Skills  
